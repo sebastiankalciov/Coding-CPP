@@ -1,7 +1,7 @@
 # Coding-CPP
-A repository used for Coding in C++ (More likely to add short programs/solved problems in C++)
+This is a repository used for coding in C++ (most likely to add solved problems in C++)
 
-Problems are explained in Romanian, so are the variables.
+Problems are explained in Romanian, so are the variables used in the process of writing the solutions.
 The repository is splited in 2 sections, one is for school and another for personal projects/solved problems
 
 # School
@@ -12,8 +12,6 @@ The repository is splited in 2 sections, one is for school and another for perso
 - matrice.io
 - patinaj.out
 
-
-
-# Dev
+# Personal
 
 - empty
